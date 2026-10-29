@@ -9,7 +9,7 @@ This project uses Power BI to transform data into interactive visualizations tha
 ## Dashboard Pages
 
 ### 1. Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 
 
