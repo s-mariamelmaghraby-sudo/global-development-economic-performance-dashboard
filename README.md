@@ -14,15 +14,15 @@ This project uses Power BI to transform data into interactive visualizations tha
 
 
 ### 2. Health & Education
-![Health and Education](images/health-education.png)
+![Health and Education](health-education.png)
 
 
 ### 3. Economic Performance
-![Economic Performance](images/economic-performance.png)
+![Economic Performance](economic-performance.png)
 
 
 ### 4. Country Details
-![Country Details](images/country-details.png)
+![Country Details](country-details.png)
 
 
 ## Tools Used
