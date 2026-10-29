@@ -1,4 +1,4 @@
-# Global Development & Economic Performance Dashboard | Power Bi
+# Global Development & Economic Performance Dashboard | Power Bi 
 
 An interactive Power BI project exploring global development indicators, economic performance, health, education, and country-level insights.
 
