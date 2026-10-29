@@ -11,14 +11,18 @@ This project uses Power BI to transform data into interactive visualizations tha
 ### 1. Executive Overview
 ![Executive Overview](images/executive-overview.png)
 
+
 ### 2. Health & Education
 ![Health and Education](images/health-education.png)
+
 
 ### 3. Economic Performance
 ![Economic Performance](images/economic-performance.png)
 
+
 ### 4. Country Details
 ![Country Details](images/country-details.png)
+
 
 ## Tools Used
 - Microsoft Power BI
